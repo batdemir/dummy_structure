@@ -1,0 +1,2 @@
+rootProject.name = "dummystructure"
+include ':app'
